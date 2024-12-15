@@ -1,4 +1,4 @@
-#a=int(input("enter the number:"
+#pattern triangle 
 n=5
 i=1
 while(i<=n):
